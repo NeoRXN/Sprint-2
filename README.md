@@ -13,3 +13,5 @@ de correos electronicos validos
 3. El campo contraseña deberia seguir los estandares de seguridad mas comunes
 de tal fora que la contraseña deberia contener mas de 8 caracteres alfa-
 numericos y debia contener una letra mayuscula
+
+para tal fin se creo el archivo de javascript form.js
